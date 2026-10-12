@@ -30,7 +30,7 @@ To create a simple, responsive, and interactive fashion website using basic web 
 - `README.md` – Project documentation
 
 ## 🌐 Live Website
-**Vercel Link:** Add your deployed website URL here.
+**Vercel Link:** (https://vastra-lane-fashion-website.vercel.app/)
 
 ---
 🤎 **Vastra Lane — Style, Simply Yours.**
